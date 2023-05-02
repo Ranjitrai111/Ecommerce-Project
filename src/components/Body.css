@@ -1,0 +1,22 @@
+.body{
+    background-color: rgb(49, 50, 54);
+    height: max-content;
+
+}
+.bodyItem{
+     display: flex; 
+     flex-wrap: wrap; 
+
+}
+.productItems{
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    width: 400px;
+    display: flex;
+     flex-direction: column; 
+}
+.store{
+    
+    flex-wrap: wrap;
+}

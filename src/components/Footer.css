@@ -1,0 +1,21 @@
+.footer{
+display: flex;
+justify-content: space-around;
+background-color: rgb(2, 2, 35);
+color: white;
+height: 300px;
+}
+.link{
+    
+padding: 5px;
+margin: 5px;
+
+}
+.services{
+    padding: 5px;
+    margin: 5px;
+}
+.question{
+    padding: 5px;
+    margin: 5px;
+}

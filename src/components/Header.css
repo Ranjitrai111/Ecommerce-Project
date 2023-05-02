@@ -1,0 +1,20 @@
+.header{
+    background-color: rgb(51, 21, 21);
+    position: relative;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+}
+.inputContainer{
+    display: flex;
+    flex-grow: 1;
+}
+.searchInput{
+    outline: none;
+    padding: 7px;
+    margin-left: 10px;
+    flex: 1;
+    border-radius: 15px;
+}
